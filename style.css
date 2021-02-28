@@ -1,0 +1,64 @@
+setlist {
+	background-color: #cff0cc;
+}
+
+message {
+	display: block;
+	text-align: center;
+	font-size: 4vw;
+	font-weight: bold;
+	padding-bottom: 2%;
+	margin: 2%;
+	text-decoration: underline;
+
+}
+
+song {
+	display: block;
+	padding: 1.2%;
+	margin: auto;
+	text-align: center;
+	width: 50%;
+}
+
+song:hover {
+	background-color: #a1d69c;
+	box-shadow:5px 5px 12px #627d5f;
+}
+
+title {
+	display: inline-block;
+	font-size: 3vw;
+	font-style: italic;
+}
+
+artist {
+	font-size: 2vw;
+	font-weight: bold;
+	margin: 0.1%;
+}
+
+artist::before {
+	content: " - ";
+}
+
+releaseYear {
+	font-size: 2vw;
+	margin: 0.1%;
+}
+
+releaseYear::before {
+	content: "(";
+}
+
+releaseYear::after {
+	content: ")";
+}
+
+genre {
+	font-size: 1.6vw;
+	display: block;
+	margin: 0.1%;
+}
+
+

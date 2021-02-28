@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<setlist> 
+
+	<message>Cover Band Setlist:</message>
+
+	<songs>
+		<song> 
+			<title>Faith</title>
+			<artist>The Weeknd</artist>
+			<releaseYear>2020</releaseYear>
+			<genre>Canadian Pop</genre>
+		</song>
+
+		<song> 
+			<title>Scared To Live</title>
+			<artist>The Weeknd</artist>
+			<releaseYear>2020</releaseYear>
+			<genre>Canadian Pop</genre>
+		</song>
+
+		<song> 
+			<title>Save Your Tears</title>
+			<artist>The Weeknd</artist>
+			<releaseYear>2020</releaseYear>
+			<genre>Canadian Pop</genre>
+		</song>
+
+		<song> 
+			<title>Levitating</title>
+			<artist>Dua Lipa</artist>
+			<releaseYear>2020</releaseYear>
+			<genre>UK Pop</genre>
+		</song>
+
+		<song> 
+			<title>Hallucinate</title>
+			<artist>Dua Lipa</artist>
+			<releaseYear>2020</releaseYear>
+			<genre>UK Pop</genre>
+		</song>
+
+		<song> 
+			<title>Physical</title>
+			<artist>Dua Lipa</artist>
+			<releaseYear>2020</releaseYear>
+			<genre>UK Pop</genre>
+		</song>
+
+		<song> 
+			<title>Oh Oui</title>
+			<artist>Shay</artist>
+			<releaseYear>2019</releaseYear>
+			<genre>French Hip Hop</genre>
+		</song>
+
+		<song> 
+			<title>Ich Liebe Dich</title>
+			<artist>Shay</artist>
+			<releaseYear>2019</releaseYear>
+			<genre>French Hip Hop</genre>
+		</song>
+
+		<song> 
+			<title>Jolie</title>
+			<artist>Shay</artist>
+			<releaseYear>2019</releaseYear>
+			<genre>French Hip Hop</genre>
+		</song>
+
+		<song> 
+			<title>Menteur menteuse</title>
+			<artist>Disiz La Peste</artist>
+			<releaseYear>2017</releaseYear>
+			<genre>French Hip Hop</genre>
+		</song>
+
+		<song> 
+			<title>Quand je serai chaos</title>
+			<artist>Disiz La Peste</artist>
+			<releaseYear>2017</releaseYear>
+			<genre>French Hip Hop</genre>
+		</song>
+
+		<song> 
+			<title>Splash</title>
+			<artist>Disiz La Peste</artist>
+			<releaseYear>2017</releaseYear>
+			<genre>French Hip Hop</genre>
+		</song>
+	</songs>
+
+</setlist>
